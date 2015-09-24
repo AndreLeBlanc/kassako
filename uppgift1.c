@@ -1,27 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @anle3295
-
-2
-0
-
-    0
-
-jesshill/EnLa
-
-EnLa/uppgift1.c
-@jesshill jesshill 15 hours ago klaaaar
-
-2 contributors
-@jesshill
-@anle3295
-768 lines (658 sloc) 20.6 KB
 #define _GNU_SOURCE
 
 #include <stdio.h>
@@ -789,8 +765,3 @@ int main()
     }
     return 0;
 }
-
-    Status API Training Shop Blog About Pricing 
-
-    © 2015 GitHub, Inc. Terms Privacy Security Contact Help 
-
